@@ -119,7 +119,7 @@ button#restart-button:hover {
     opacity: 0;
     animation: pulse 2s infinite ease-in-out;
     position: absolute;
-    top: calc(50% + 16rem);
+    top: calc(50% + 12rem);
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 24px;
